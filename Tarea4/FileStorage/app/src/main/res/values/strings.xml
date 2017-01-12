@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FileStorage</string>
+    <string name="filename">file name</string>
+    <string name="file_content">File content</string>
+    <string name="save">Saved Data</string>
+    <string name="write_file_to_internal_storage">escribir interno</string>
+    <string name="read_file_from_internal_storage">leer interno</string>
+    <string name="write_file_to_external_storage">escribir external</string>
+    <string name="read_file_from_external_storage">leer externo</string>
+    <string name="title_activity_write_to_internal_storage">title write internal</string>
+    <string name="title_activity_write_to_external_storage">title write externak</string>
+    <string name="title_activity_read_from_internal_storage">title read internal</string>
+    <string name="title_activity_read_from_external_storage">title read external</string>
+
+</resources>

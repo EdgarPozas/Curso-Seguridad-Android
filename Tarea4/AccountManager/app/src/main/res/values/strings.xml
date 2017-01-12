@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AccountManager</string>
+    <string name="wait">Espera</string>
+    <string name="my_profile">My profile</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="gender">Gender</string>
+    <string name="profile_image">Profile Image</string>
+</resources>
